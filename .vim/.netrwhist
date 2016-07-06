@@ -1,0 +1,8 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =6
+let g:netrw_dirhist_1='/homes/tsurendra/dpdk_1_2'
+let g:netrw_dirhist_2='/homes/tsurendra/dpdk_1_2/DPDK'
+let g:netrw_dirhist_3='/homes/tsurendra/dpdk_1_2/DPDK/app'
+let g:netrw_dirhist_4='/homes/tsurendra/dpdk_1_2/DPDK/app/dump_cfg'
+let g:netrw_dirhist_5='/b/ws/junos_sb_1/src/pfe/common/drivers/zephyr/epp'
+let g:netrw_dirhist_6='/b/ws/junos_sb_1/src'
